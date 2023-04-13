@@ -1,6 +1,6 @@
 //src/componentes/Rodape/index.js
 
-import './rodape.css'
+import './Rodape.css'
 
 const Rodape = () => {
     return (<footer className="footer">
@@ -8,17 +8,17 @@ const Rodape = () => {
             <ul>
                 <li>
                     <a href="facebook.com" target="_blank">
-                        <img src="/imagens/facebook.png" alt="" />
+                        <img src="./imagens/fb.png" alt="logo Facebook" />
                     </a>
                 </li>
                 <li>
                     <a href="twitter.com" target="_blank">
-                        <img src="/imagens/twitter.png" alt="" />
+                        <img src="./tw.png" alt="logo Twitter" />
                     </a>
                 </li>
                 <li>
                     <a href="instagram.com" target="_blank">
-                        <img src="/imagens/instagram.png" alt="" />
+                        <img src="../imagens/ig.png" alt="logo Instagram" />
                     </a>
                 </li>
             </ul>
