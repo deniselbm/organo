@@ -13,7 +13,7 @@ const Rodape = () => {
                 </li>
                 <li>
                     <a href="twitter.com" target="_blank">
-                        <img src="./tw.png" alt="logo Twitter" />
+                        <img src="./imagens/tw.png" alt="logo Twitter" />
                     </a>
                 </li>
                 <li>
